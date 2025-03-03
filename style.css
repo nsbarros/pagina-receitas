@@ -1,4 +1,23 @@
 
+body {
+    background-image: url(assets/bg-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#page{
+    background-color: #F0E8C2;
+    padding: 1.5rem; 
+    border-radius: 1.5rem;
+    width: 800px;
+    height: 1440px;
+    margin: 48px auto 100px;
+    box-sizing: border-box;
+
+}
+
 #main-image{
  border-radius: 16px;
+ 
 }
