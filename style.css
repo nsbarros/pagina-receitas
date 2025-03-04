@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 :root{
     font-family: "Alice", serif;
     line-height: 150%;
@@ -38,4 +43,24 @@ h2{
 
 h1, h2 {
     color: #291B1A;
+    margin-bottom: 4px;
+}
+
+section {
+    padding: 0px 24px 24px 24px
+}
+
+#ingredients ul {
+    padding-left: 24px;
+}
+
+footer {
+    color: #573A37;
+    text-align: center;
+    padding-bottom: 48px;
+    font-size: 1rem;
+}
+
+footer img {
+    vertical-align: middle;
 }
